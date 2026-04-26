@@ -37,7 +37,7 @@ jobs:
           extended: true
 
       - name: Download Hugo modules
-        run: hugo mod download
+        run: go mod download
 
       - name: Configure Pages
         id: pages
