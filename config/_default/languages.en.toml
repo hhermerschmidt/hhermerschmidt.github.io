@@ -16,7 +16,11 @@ title = "Henning Hermerschmidt"
   name = "Henning Hermerschmidt"
   image = "img/author.jpg"
   headline = "Dr.-Ing. · Software Architecture · HPC & Scientific Computing"
-  bio = "Software architect working on large-scale C++ simulation systems."
+  # bio is not rendered in the profile layout but kept here for reference:
+  # "Senior software engineer with a strong focus on software architecture and long-term evolution
+  # of large-scale C++ simulation systems, bridging numerical methods, physical modelling, and
+  # robust software design."
+  bio = ""
   links = [
     { linkedin = "https://www.linkedin.com/in/henninghermerschmidt/" },
     { github = "https://github.com/hhermerschmidt" },
